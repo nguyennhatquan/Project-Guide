@@ -4,6 +4,8 @@ Hi there
 Welcome to my Project Guide where you can take a look at my projects and study documents
 
 If you have any questions or comments, connect with me through LinkedIn and let's have a chat 🥂
+
+👋 *P/s: If you get interested in any project below after reading its summary, click its **blue title** to go to its repositories*
 # SQL
 ## ☘ [Data with Danny course](https://www.datawithdanny.com/)
 ## 🥑 [8 Week SQL Challenge](https://github.com/nguyennhatquan/8-Week-SQL-Challenge)
