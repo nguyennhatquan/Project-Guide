@@ -51,7 +51,7 @@ You can check my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:act
   * The relationship between CHARACTER CHEMISTRY and episodes RATING/VOTES
 ## Email Marketing Analysis
 <p align = "center">
-  <img width="500px" src="https://i.pinimg.com/originals/44/34/f4/4434f46e00cf97ed6595948eeab29dc5.jpg" />
+  <img width="600px" src="https://i.pinimg.com/originals/44/34/f4/4434f46e00cf97ed6595948eeab29dc5.jpg" />
 </p>
 * **Applied Visuals**: 
 
