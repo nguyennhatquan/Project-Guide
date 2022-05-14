@@ -15,6 +15,7 @@ If you have any questions or comments, connect with me through LinkedIn and let'
 
 # Python
 ## Study Documents
+### [Data Cleaning](https://github.com/nguyennhatquan/Study-Documents/blob/main/Cleaning_Data_in_Python.ipynb)
 
 ## A/B Testing Project
 
