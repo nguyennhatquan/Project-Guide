@@ -6,6 +6,11 @@ Welcome to my Project Guide where you can take a look at my projects and study d
 If you have any questions or comments, connect with me through LinkedIn and let's have a chat 🥂
 
 👋 *P/s: If you get interested in any project below after reading its summary, click its **blue title** to go to its repositories*
+
+# Table of Contents
+* [SQL](#sql)
+* [Python](#python)
+* [Power BI](#power-bi)
 # SQL
 ## ☘ [Data with Danny course](https://www.datawithdanny.com/)
 ## 🥑 [8 Week SQL Challenge](https://github.com/nguyennhatquan/8-Week-SQL-Challenge)
@@ -14,15 +19,15 @@ If you have any questions or comments, connect with me through LinkedIn and let'
 </p>
 
 # Python
-## Study Documents
+## 📃 Study Documents
 ### 🧹 [Data Cleaning](https://github.com/nguyennhatquan/Study-Documents/blob/main/Cleaning_Data_in_Python.ipynb)
 
-## A/B Testing Project
+## 🆎 A/B Testing Project
 
-## Cohort Analysis Project
+## 👩‍💻 Cohort Analysis Project
 
-## KKBox EDA
+## 📊 KKBox EDA
 
-## Data Camp Projects
+## 📽 Data Camp Projects
 
 # Power BI
