@@ -89,7 +89,7 @@ You can check my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:act
 
  ## Unemployment Analysis
 <p align = "center">
-  <img width="600px" src=" https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61105398-45c4-4b9f-a445-05abae4ef162%2FUntitled.png?table=block&id=52d55d50-234b-4b10-8704-f9b2b7eb1102&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
+  <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61105398-45c4-4b9f-a445-05abae4ef162%2FUntitled.png?table=block&id=52d55d50-234b-4b10-8704-f9b2b7eb1102&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2"/>
 </p>
 
  **Applied Visuals**: 
