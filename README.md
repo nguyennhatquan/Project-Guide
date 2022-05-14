@@ -51,10 +51,46 @@ You can check my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:act
   * The relationship between CHARACTER CHEMISTRY and episodes RATING/VOTES
 ## Email Marketing Analysis
 <p align = "center">
-  <img width="600px" src="https://i.pinimg.com/originals/44/34/f4/4434f46e00cf97ed6595948eeab29dc5.jpg" />
+  <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F28a0498b-b7e9-48e3-bf3b-e2f6cfaa2831%2FUntitled.png?table=block&id=f332e196-5622-40cd-822f-1578b03e5381&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
 </p>
-* **Applied Visuals**: 
+
+* **Applied Visuals**: ribbon chart, column chart, donut chart, card, waterfall chart, bar chart
+
+* **Key Insights**: 
+  * Our dominant users are Male and Female between late 20s and late 40s, married and living with children 
+  * People mostly subscribed to our email between 7:00 AM and 2:00 PM
+  * The year 2018 contributes the highest number of subscription so far, which accounts for more than 50% of the total current users
+  * Our email subscription number is showing a downward trend 
+* **What could be improved ?**: 
+
+## Olympics Analysis
+<p align = "center">
+  <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa4633bd7-ebf8-4303-9965-3a7a544669b6%2FUntitled.png?table=block&id=771cfb25-1d43-4434-ade0-7bbc7b3476d7&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
+</p>
+
+* **Applied Visuals**: donut chart, treemap, ribbon chart, stacked bar chart, matrix, stacked column chart, line chart
 
 * **Key Insights**:
+  * Players gain the highest number of medals between their early and late 20 s
+  * While Russia was dominant in the total number of won medals in the winter seasons, it ranked 2nd place in the summer seasons, which was after the USA
+## Global Terrorism Analysis
+<p align = "center">
+  <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb7734886-847f-446b-9ca6-f19c650853a0%2FUntitled.png?table=block&id=da35ea63-3822-480b-bfb6-65db427cf387&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
+</p>
 
-* **What could be improved ?**: 
+* **Applied Visuals**: 
+
+## Bank Customer Analysis
+<p align = "center">
+  <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7e6e5124-b6ab-4791-b35a-a1f03b7ced96%2FUntitled.png?table=block&id=96d8b8fc-f2ac-46d7-bca8-1abff7c7c7f9&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
+</p>
+
+ **Applied Visuals**: 
+
+ ## Unemployment Analysis
+<p align = "center">
+  <img width="600px" src=" https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61105398-45c4-4b9f-a445-05abae4ef162%2FUntitled.png?table=block&id=52d55d50-234b-4b10-8704-f9b2b7eb1102&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
+</p>
+
+ **Applied Visuals**: 
+
