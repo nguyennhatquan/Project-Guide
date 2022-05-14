@@ -30,9 +30,9 @@ This challenge comes along with [Serious SQL course](https://www.datawithdanny.c
 
 # Power BI
 ## Friends TV Show
-This my submission for [Data DNA Challenge Jan 2022](https://onyxdata.co.uk/dataset_challenge/january-2022/) hold by Onyx Data. 
+This is my submission for [Data DNA Challenge Jan 2022](https://onyxdata.co.uk/dataset_challenge/january-2022/) hold by Onyx Data. 
 
-You can check [my LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6890692350398619648/) for more information
+You can check my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6890692350398619648/) for more information
 <p align = "center">
   <img width="400px" src="https://i.pinimg.com/originals/61/f1/9a/61f19ae9f51346a66c409679589315b0.jpg" />
 </p>
@@ -40,12 +40,21 @@ You can check [my LinkedIn post](https://www.linkedin.com/feed/update/urn:li:act
 * **Applied Visuals**: card, funnel chart, heat map, matrix, line and column chart, bar chart 
 
 * **Key Insights**:
-  * **Rachel** was mentioned the most in both episodes summary and titles -> *Indicating the whole series mostly cover stories about Rachel*
-  * **The Last One Part 2** is the top 1 episode by both ratings and votes -> *Indicating this is the most favorite episode by the audience*
+  * RACHEL was mentioned the most in both episodes summary and titles -> *Indicating the whole series mostly cover stories about Rachel*
+  * "THE LAST ONE PART 2" is the top 1 episode by both ratings and votes -> *Indicating this is the most favorite episode by the audience*
 
 * **What could be improved ?**: 
 
   Other aspects of the dataset can still be deep dived into, e.g:
-  * The relationship between character appearances and episodes ratings/votes 
-  * The relationship between episodes themes and episodes ratings/votes
-  * The relationship between character combinations and episodes ratings/votes
+  * The relationship between CHARACTER APPEARANCES and episodes RATING/VOTES 
+  * The relationship between EPISODES THEMES and episodes RATING/VOTES
+  * The relationship between CHARACTER CHEMISTRY and episodes RATING/VOTES
+## Email Marketing Analysis
+<p align = "center">
+  <img width="500px" src="https://i.pinimg.com/originals/44/34/f4/4434f46e00cf97ed6595948eeab29dc5.jpg" />
+</p>
+* **Applied Visuals**: 
+
+* **Key Insights**:
+
+* **What could be improved ?**: 
