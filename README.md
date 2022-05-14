@@ -12,6 +12,13 @@ If you have any questions or comments, connect with me through LinkedIn and let'
 </p>
 
 # Python
+## Study Documents
+
+## A/B Testing Project
+
+## Cohort Analysis Project
+
+## KKBox EDA
 
 ## Data Camp Projects
 
