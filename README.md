@@ -14,11 +14,18 @@ If you have any questions or comments, connect with me through LinkedIn and let'
 # SQL
 
 ## 🥑 [8 Week SQL Challenge](https://github.com/nguyennhatquan/8-Week-SQL-Challenge)
-This challenge comes along with [Serious SQL course](https://www.datawithdanny.com/courses/serious-sql)
-* **Skills learnt**: 
+This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/courses/serious-sql)
+* **Skills learnt**: apply JOIN framework, combine aggregation functions and window functions, join multiple CTEs to solve advanced problems
+* **What to improve**:
+  * Practice using Recursive CTE to solve advanced problems 
+  * Comprehend and use Window Frame with window functions
 # Python
 ## 📃 Study Documents
 ### 🧹 [Data Cleaning](https://github.com/nguyennhatquan/Study-Documents/blob/main/Cleaning_Data_in_Python.ipynb)
+### 📊 [Data Visualization]()
+### 📱 [Marketing Analystics]()
+* **Skills learnt**: calculate Marketing metrics (converstion rate, retention rate). segment customer based on Marketing channels, visualize Marketing campaign results
+* **What to improve**:
 
 ## 🆎 A/B Testing Project
 
@@ -61,7 +68,6 @@ You can check my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:act
   * People mostly subscribed to our email between 7:00 AM and 2:00 PM
   * The year 2018 contributes the highest number of subscription so far, which accounts for more than 50% of the total current users
   * Our email subscription number is showing a downward trend 
-* **What could be improved ?**: 
 
 ## Olympics Analysis
 <p align = "center">
@@ -78,19 +84,25 @@ You can check my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:act
   <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb7734886-847f-446b-9ca6-f19c650853a0%2FUntitled.png?table=block&id=da35ea63-3822-480b-bfb6-65db427cf387&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
 </p>
 
-* **Applied Visuals**: 
+* **Applied Visuals**: donut chart, date range slicer, filter button, map, card, area chart, bar chart, column chart
 
 ## Bank Customer Analysis
 <p align = "center">
   <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7e6e5124-b6ab-4791-b35a-a1f03b7ced96%2FUntitled.png?table=block&id=96d8b8fc-f2ac-46d7-bca8-1abff7c7c7f9&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2" />
 </p>
 
- **Applied Visuals**: 
+* **Applied Visuals**: donut chart, stacked column chart, clustered bar chart, funnel chart, line chart with forecast
 
  ## Unemployment Analysis
 <p align = "center">
   <img width="600px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61105398-45c4-4b9f-a445-05abae4ef162%2FUntitled.png?table=block&id=52d55d50-234b-4b10-8704-f9b2b7eb1102&spaceId=8787bd0b-e024-4107-9535-cad756ee2706&width=2000&userId=c15c6d64-12c6-4c49-8921-ee4e6ea9f8f1&cache=v2"/>
 </p>
 
- **Applied Visuals**: 
-
+* **Applied Visuals**: filter button, card, donut chart, line chart, stacked column chart, 100% stacked bar chart
+---
+<p align='center'>
+🔅🔅<b>THE END</b>🔅🔅
+</p>
+<p align='center'>
+Look like you've seen all my projects, thank you 🥰
+</p>
