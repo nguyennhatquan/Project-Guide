@@ -104,5 +104,5 @@ You can check my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:act
 🔅🔅<b>THE END</b>🔅🔅
 </p>
 <p align='center'>
-Look like you've seen all my projects, thank you 🥰
+It looks like your tour ends here, thank you 🥰
 </p>
