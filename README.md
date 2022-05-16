@@ -29,11 +29,11 @@ This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/c
 ### 🔢 [Statistics]()
 * **Skills learnt**: statistical inference
 * **What to improve**:
-## 🆎 A/B Testing Project
+## 🙀 Cookie Cat Game A/B Testing Project
+
+## 📊 Ecommerce Website A/B Testing Project
 
 ## 👩‍💻 Cohort Analysis Project
-
-## 📊 KKBox EDA
 
 ## 📽 Data Camp Projects
 
