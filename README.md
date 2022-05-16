@@ -23,10 +23,12 @@ This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/c
 ## 📃 Study Documents
 ### 🧹 [Data Cleaning](https://github.com/nguyennhatquan/Study-Documents/blob/main/Cleaning_Data_in_Python.ipynb)
 ### 📊 [Data Visualization]()
-### 📱 [Marketing Analystics]()
-* **Skills learnt**: calculate Marketing metrics (converstion rate, retention rate). segment customer based on Marketing channels, visualize Marketing campaign results
+### 📱 [Marketing Analytics]()
+* **Skills learnt**: analyze Marketing campaign, customer segmentation, A/B testing
 * **What to improve**:
-
+### 🔢 [Statistics]()
+* **Skills learnt**: statistical inference
+* **What to improve**:
 ## 🆎 A/B Testing Project
 
 ## 👩‍💻 Cohort Analysis Project
