@@ -32,12 +32,25 @@ This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/c
 ## 🙀 Cookie Cat Game A/B Testing Project
 
 ## 📊 Ecommerce Website A/B Testing Project
-
+[*To be updated*]
 ## 👩‍💻 Cohort Analysis Project
 
 ## 📽 Data Camp Projects
 
 # Power BI
+## Customer Churn Analysis
+* **Applied Visuals**: card, funnel chart, heat map, matrix, line and column chart, bar chart 
+
+* **Key Insights**:
+  * RACHEL was mentioned the most in both episodes summary and titles -> *Indicating the whole series mostly cover stories about Rachel*
+  * "THE LAST ONE PART 2" is the top 1 episode by both ratings and votes -> *Indicating this is the most favorite episode by the audience*
+
+* **What could be improved ?**: 
+
+  Other aspects of the dataset can still be deep dived into, e.g:
+  * The relationship between CHARACTER APPEARANCES and episodes RATING/VOTES 
+  * The relationship between EPISODES THEMES and episodes RATING/VOTES
+  * The relationship between CHARACTER CHEMISTRY and episodes RATING/VOTES
 ## Friends TV Show
 This is my submission for [Data DNA Challenge Jan 2022](https://onyxdata.co.uk/dataset_challenge/january-2022/) hold by Onyx Data. 
 
