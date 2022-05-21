@@ -15,28 +15,24 @@ If you have any questions or comments, connect with me through LinkedIn and let'
 
 ## 🥑 [8 Week SQL Challenge](https://github.com/nguyennhatquan/8-Week-SQL-Challenge)
 This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/courses/serious-sql)
-* **Skills learnt**: apply JOIN framework, combine aggregation functions and window functions, join multiple CTEs to solve advanced problems
+* **Skills learnt**: apply JOIN framework, combine aggregation functions and window functions, join multiple CTEs to solve advanced problems, apply Window Functions in real-life business questions
 * **What to improve**:
   * Practice using Recursive CTE to solve advanced problems 
   * Comprehend and use Window Frame with window functions
 # Python
 ## 📃 Study Documents
-### 🧹 [Data Cleaning](https://github.com/nguyennhatquan/Study-Documents/blob/main/Cleaning_Data_in_Python.ipynb)
-### 📊 [Data Visualization]()
-### 📱 [Marketing Analytics]()
+### 🧹 [Data Cleaning](https://colab.research.google.com/drive/1JKOzaVwLvrdX0e8yKTfRD_p791W94iPU?usp=sharing)
+* **Skills learnt**: solve common data problems (data type, data range, uniqueness constraints), deal with text & categorical data problems
+### 📊 [Data Visualization](https://colab.research.google.com/drive/1mBizYlsE0NWTmINHtcX4Uhf8ZDAE6hFN?usp=sharing)
+* **Skills learnt**: visualize quantitative and categorical variable, customize plots using Seaborn library
+### 📱 [Marketing Analytics][*To be updated*]
 * **Skills learnt**: analyze Marketing campaign, customer segmentation, A/B testing
-* **What to improve**:
-### 🔢 [Statistics]()
-* **Skills learnt**: statistical inference
-* **What to improve**:
 ## 🙀 Cookie Cat Game A/B Testing Project
-
-## 📊 Ecommerce Website A/B Testing Project
 [*To be updated*]
 ## 👩‍💻 Cohort Analysis Project
-
+[*To be updated*]
 ## 📽 Data Camp Projects
-
+[*To be updated*]
 # Power BI
 ## Customer Churn Analysis
 * **Applied Visuals**: card, funnel chart, heat map, matrix, line and column chart, bar chart 
