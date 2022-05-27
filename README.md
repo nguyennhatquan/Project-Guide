@@ -26,6 +26,10 @@ This challenge is a part of [Serious SQL course](https://www.datawithdanny.com/c
 ### 📊 [Data Visualization](https://colab.research.google.com/drive/1mBizYlsE0NWTmINHtcX4Uhf8ZDAE6hFN?usp=sharing)
 * **Skills learnt**: visualize quantitative and categorical variable, customize plots using Seaborn library
 
+##  🏫 Projects
+### DataCamp Projects
+[*To be updated*]
+
 # Power BI
 
 ## Friends TV Show
